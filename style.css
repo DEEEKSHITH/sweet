@@ -1,0 +1,18 @@
+body{
+    
+}
+p,h4{
+    font-size: 24px;
+    color: black;
+    border: color(srgb red blue);
+}
+
+.para {
+    display: inline;
+    /* text-align: centere;*/
+    vertical-align: bottom;
+}
+
+img{
+    float: left;
+}
